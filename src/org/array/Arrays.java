@@ -17,6 +17,7 @@ public class Arrays {
 		int len = a.length;
 		System.out.println(len);
 		
+
 		System.out.println(a[5]);
 		System.out.println(a[6]);
 		
