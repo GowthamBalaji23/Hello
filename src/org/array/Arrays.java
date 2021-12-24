@@ -13,10 +13,11 @@ public class Arrays {
 		a[5]=10;
 		a[6]=40;
 		
-		
+	
 		int len = a.length;
 		System.out.println(len);
 		
+		System.out.println(a[5]);
 		System.out.println(a[6]);
 		
 		System.out.println();
